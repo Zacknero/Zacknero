@@ -1,4 +1,4 @@
-### Hi guys <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> - I'm deaf italian developer 👨‍💻 🧏‍♂️
+### Hi guys <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> - I'm deaf italian front-end developer 👨‍💻 🧏‍♂️
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Zacknero.Zacknero)
 
