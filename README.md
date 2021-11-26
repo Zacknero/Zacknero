@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Lynx SpA
 - 🌱 I’m currently learning Javascript, Angular & React
 - 💬 Talk to me about Angular, JavaScript, Smart-Working Opportunites, Open Source, Footbal and Games
-- ⚡ Fun fact: Film & Serie TV lover & Playstation Gamer
+- ⚡ Fun fact: Film & Serie TV lover & Playstation Gamer & Friends
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
