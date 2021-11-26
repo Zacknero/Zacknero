@@ -8,7 +8,7 @@
 <h2> About Me </h2>
 
 - 🔭 I’m currently working on Lynx SpA
-- 🌱 I’m currently learning Javascript and Angular
+- 🌱 I’m currently learning Javascript, Angular & React
 - 💬 Talk to me about Angular, JavaScript, Smart-Working Opportunites, Open Source, Footbal and Games
 - ⚡ Fun fact: Film & Serie TV lover & Playstation Gamer
 
