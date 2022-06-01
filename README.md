@@ -8,8 +8,9 @@
 <h2> About Me </h2>
 
 - 🔭 I’m currently working on Lynx SpA
-- 🌱 I’m currently learning Javascript, Angular & React
-- 💬 Talk to me about Angular, JavaScript, Smart-Working Opportunites, Open Source, Footbal and Games
+- 👨🏻‍💻 I'm Front-End Developer with Angular, JavaScript, NgRx, RxJs, Angular Material & other
+- 🌱 I’m currently learning Microservices, Docker, Kubernets, Helm & Microsoft Azure
+- 💬 Talk to me about Angular, JavaScript, Smart-Working Opportunites, Open Source, Sport and Video Games
 - ⚡ Fun fact: Film & Serie TV lover, Sports & Friends
 
 
