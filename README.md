@@ -7,11 +7,11 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on Lynx SpA
+- 🔭 I’m currently working on Capgemini SpA
 - 👨🏻‍💻 I'm Front-End Developer with Angular, JavaScript, NgRx, RxJs, Angular Material & other
 - 🌱 I’m currently learning Microservices, Docker, Kubernets, Helm & Microsoft Azure
 - 💬 Talk to me about Angular, JavaScript, Smart-Working Opportunites, Open Source, Sport and Video Games
-- ⚡ Fun fact: Film & Serie TV lover, Sports & Friends
+- ⚡ Fun fact: Film & Serie TV lover, Sports, Travel & Friends
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
