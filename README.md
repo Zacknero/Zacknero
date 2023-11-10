@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Capgemini SpA
 - 👨🏻‍💻 I'm Front-End Developer with Angular, JavaScript, NgRx, RxJs, Angular Material & other
-- 🌱 I’m currently learning Microservices, Docker, Kubernets, Helm & Microsoft Azure
+- 🌱 I’m currently learning Signal, Standalone and Architecture
 - 💬 Talk to me about Angular, JavaScript, Smart-Working Opportunites, Open Source, Sport and Video Games
 - ⚡ Fun fact: Film & Serie TV lover, Sports, Travel & Friends
 
